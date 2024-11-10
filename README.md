@@ -2,10 +2,8 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/elvarettas23">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=elvarettas23&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
+<div align="center">
+  <img height="175" src="https://media.giphy.com/media/arxiLc5EiFhja/giphy.gif?cid=790b7611gn3xkpo3dv3q71y5bb4pwi4wia20e03l5ork6i23&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -27,11 +25,7 @@
 
 ###
 
-<img align="right" height="175" src="https://media.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=790b7611gn3xkpo3dv3q71y5bb4pwi4wia20e03l5ork6i23&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -52,20 +46,34 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
 
-<br clear="both"><br>
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Elvrt&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elvrt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/elvarettas23">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=elvarettas23&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
