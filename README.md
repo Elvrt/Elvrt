@@ -64,6 +64,7 @@
 
 <img src="https://raw.githubusercontent.com/Elvrt/Elvrt/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 <div align="center">
