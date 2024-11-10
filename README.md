@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://open.spotify.com/user/elvarettas23">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=elvarettas23&count=1&unique=false" alt="Spotify recently played"  />
