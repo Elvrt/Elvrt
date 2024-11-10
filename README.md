@@ -63,7 +63,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both"><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Elvrt&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
