@@ -2,15 +2,13 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://open.spotify.com/user/elvarettas23">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=elvarettas23&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=790b7611gn3xkpo3dv3q71y5bb4pwi4wia20e03l5ork6i23&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -28,6 +26,10 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=790b7611gn3xkpo3dv3q71y5bb4pwi4wia20e03l5ork6i23&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
