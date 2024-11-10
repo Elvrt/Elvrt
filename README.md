@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=790b7611gn3xkpo3dv3q71y5bb4pwi4wia20e03l5ork6i23&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="175" src="https://media.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=790b7611gn3xkpo3dv3q71y5bb4pwi4wia20e03l5ork6i23&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
